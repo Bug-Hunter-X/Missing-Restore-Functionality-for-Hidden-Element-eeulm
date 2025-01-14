@@ -1,0 +1,1 @@
+This repository demonstrates a common error in HTML/JavaScript where an element is hidden but lacks a mechanism for restoring its visibility.  The bug.html file shows the erroneous code. The solution.html file provides a corrected version.
